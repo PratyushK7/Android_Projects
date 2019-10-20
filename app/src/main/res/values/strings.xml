@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="hint_id">Please Enter Your Number</string>
+    <string name="submit">Submit</string>
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+    <string name="sa_citizen">SA Citizen</string>
+    <string name="foreign_citizen">Foreign Citizen</string>
+    <string name="dob">Date of Birth:</string>
+    <string name="gender">Gender:</string>
+    <string name="nationality">Nationality:</string>
+</resources>
